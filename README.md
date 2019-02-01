@@ -1,7 +1,8 @@
-# JuergenGutschOnTwitch
-Issues, Questions about the Twitch stream
+# Juergen.IO.Stream
+This repos is about organising, scheduling and planning the stream on twitch 
 
-File a new issue in case you like to propose topics or if you have feedback and question which directly relate to this stream.
+=> File a new issue in case you like to propose topics or if you have feedback and question which directly relate to this stream.
+=> Watch this repo to retreive news 
 
 # Schedule
 (Time in CET)
