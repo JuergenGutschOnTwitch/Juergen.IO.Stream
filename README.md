@@ -33,4 +33,6 @@ I'd like to move away from Excel and create a cross plat web app to suport that 
 This show my be a litle bit like the ASP.NET Community standup, but I'd like to invite some experts from the communtiy ti diskuss the latest cool and awesome things that happen in the communtiy. This may blog posts, new tools, events and many more. 
 
 # Ask me everyting
-I also plan 
+I also plan to do a "Ask me everyting" show. 
+Fil an issue to ask a question on that repository: https://github.com/JuergenGutschOnTwitch/AskMeAnythingSession/issues
+If there are some questions, which will fill a one hour show, I'll schedule a special one or do it at friday afternoon. We'll see :-)
