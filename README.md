@@ -31,7 +31,7 @@ I'd like to move away from Excel and create a cross plat web app to suport that 
 * And much more...
 
 # The friday show
-This show my be a litle bit like the ASP.NET Community standup, but I'd like to invite some experts from the communtiy ti diskuss the latest cool and awesome things that happen in the communtiy. This may blog posts, new tools, events and many more. 
+This show my be a litle bit like the ASP.NET Community standup, but I'd like to invite some experts from the community ti discuss the latest cool and awesome things that happen in the community. This may blog posts, new tools, events and many more.
 
 # Ask me everyting
 I also plan to do a "Ask me everyting" show. 
