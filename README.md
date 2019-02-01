@@ -7,18 +7,19 @@ This repos is about organising, scheduling and planning the stream on twitch
 # Schedule
 (Time in CET)
 All shows are planned for one hour, but may take longer depending on the audience and guests.
-* Monday 9:00pm
+* Monday 9:00 pm
   * Working on sharpcms
-* Wednesday 8:00am
-  * Working on the lunch4lunch app
+* Wednesday 8:00 am
+  * Working on the Lunch4Lunch app
 * Friday 4:00 pm
-  * Inviting a guest and discuss current  ASP.NET  related topics 
+  * The Friday show: Inviting one or two special guests sand discuss current  ASP.NET related topics
+
 This is just a plan. I'll try to follow this plan as best as possible. But family and work always have a higher priority, so it may happen that I need to cancel or move a show if there are some conflicts.
 
 # sharpcms
-The sharpcms is a pretty old C# CMS, that I own together with @thomas3577. We got the project ownership many years ago from the danish developer. I'd like to move the sharpcms to ASP.NET Core together with you and some other experts who will join the stream as geuests.
+The sharpcms is a pretty old C# CMS, which I own together with @thomas3577. We got the project ownership many years ago from a danish developer who stopped maintaining it. I'd like to move the sharpcms to ASP.NET Core together with you and some other experts who will join the stream as geuests.
 
-Hope I get @thomas3577 for the first stream.
+Hope I'll get @thomas3577 for the first stream (and some more). That would be super awesome :)
 
 # Lunch4Lunch
 This is a nice idea we had and we currently live in the YOO (http://yooapps.com). If somone prepares lunch at home, he can prepare some more and offer it to the collegues. For every lunch he prepares, he will earn a coin. Everyone who wants to eat a portion need to kinda "pay" a coin to the cook. The one who cooks tells the colleagues: "I have two more portions of this super awesome yumy thing. Who wants one?" Than you are able to reserve a meal. With the coins you get, you are able to also eat a meal, cooked by another colleague.
