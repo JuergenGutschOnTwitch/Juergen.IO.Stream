@@ -1,8 +1,8 @@
 # Juergen.IO.Stream
 This repos is about organising, scheduling and planning the stream on twitch 
 
-=> File a new issue in case you like to propose topics or if you have feedback and question which directly relate to this stream.
-=> Watch this repo to retreive news 
+* File a new issue in case you like to propose topics or if you have feedback and question which directly relate to this stream.
+* Watch this repo to retreive all important news 
 
 # Schedule
 (Time in CET)
@@ -21,7 +21,7 @@ The sharpcms is a pretty old C# CMS, which I own together with @thomas3577. We g
 
 Hope I'll get @thomas3577 for the first stream (and some more). That would be super awesome :)
 
-# Lunch4Lunch -  Building a new awesome ASP.NET Core application
+# Lunch4Lunch - Building a new awesome ASP.NET Core application from scratch
 This is a nice idea we had and we currently live in the YOO (http://yooapps.com). If somone prepares lunch at home, he can prepare some more and offer it to the colleagues. For every lunch he prepares, he will earn a coin. Everyone who wants to eat a portion need to kinda "pay" a coin to the cook. The one who cooks tells the colleagues: "I have two more portions of this super awesome yumy thing. Who wants one?" Than you are able to reserve a meal. With the coins you get, you are able to also eat a meal, cooked by another colleague.
 
 I'd like to move away from Excel and create a cross plat web app to suport that Idea a little more: 
