@@ -1,4 +1,6 @@
 # Juergen.IO.Stream
+Even if this docu is in English, the stream will be in **German**.
+
 This repo is about organizing, scheduling and planning the stream on twitch 
 
 * File a new issue in case you like to propose topics or if you have feedback and question which directly relate to this stream.
