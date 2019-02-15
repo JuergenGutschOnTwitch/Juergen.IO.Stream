@@ -1,5 +1,9 @@
 # Juergen.IO.Stream
 Even if this docu is in English, the stream will be in **German**.
+Twitch: https://www.twitch.tv/juergengutsch/
+YouToube video archive: https://www.youtube.com/channel/UCidNsIiblLOqbWQkAZR0oHw
+Twitter: https://twitter.com/settings
+Blog: https://asp.net-hacker.rocks/
 
 This repo is about organizing, scheduling and planning the stream on twitch 
 
