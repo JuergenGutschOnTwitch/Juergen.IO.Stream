@@ -18,6 +18,8 @@ Family and work always have a higher priority, that's why I cannot really schedu
 # Working on sharpcms - Moving a legacy ASP.NET application to ASP.NET Core
 The sharpcms is a pretty old C# CMS, which I own together with @thomas3577. We got the project ownership many years ago from a Danish developer who stopped maintaining it. I'd like to move the sharpcms to ASP.NET Core together with you and some other experts who will join the stream as guests.
 
+Repository: https://github.com/JuergenGutschOnTwitch/Sharpcms.Core
+
 # Lunch4Lunch - Building a new awesome ASP.NET Core application from scratch
 This is a nice idea we had and we currently live in the YOO (http://yooapps.com). If someone prepares lunch at home, he can prepare some more and offer it to the colleagues. For every lunch he prepares, he will earn a coin. Everyone who wants to eat a portion need to kinda "pay" a coin to the cook. The one who cooks tells the colleagues: "I have two more portions of this super awesome yummy thing. Who wants one?" Than you are able to reserve a meal. With the coins you get, you are able to also eat a meal, cooked by another colleague.
 
