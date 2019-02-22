@@ -29,9 +29,6 @@ I'd like to move away from Excel and create a cross plat web app to support that
 * Coin wallet
 * And much more...
 
-# The Friday show
-This is the little more lazy show, which also may be a little more flexible than the others. It will be a little bit like the ASP.NET Community standup, but I'd also like to invite some experts from the community to discuss the latest cool and awesome things that happen in the community. (This may be blog posts, demos, new tools, events and many more.)
-
 # Ask me enything
 I also plan to do a "Ask me enything" show. File an issue to ask a question on that repository: https://github.com/JuergenGutschOnTwitch/AskMeAnythingSession/issues
-If there are some questions, which will fill a one hour show, I'll schedule a special one or do it on Friday afternoon. We'll see :-)
+If there are some questions, which will fill a one hour show, I'll schedule a special one.
